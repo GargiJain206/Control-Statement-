@@ -1,0 +1,8 @@
+# Given 5 numbers A, B, C, D, E as input. Print the average of these 5 numbers.
+A = int(input("Enter first number "))
+B = int(input("Enter second number "))
+C = int(input("Enter third number "))
+D = int(input("Enter fourth number "))
+E = int(input("Enter fifth number "))
+avg = A+B+C+D+E/5
+print("Average is : ",avg)
